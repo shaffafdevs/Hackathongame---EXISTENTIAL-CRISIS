@@ -1,7 +1,0 @@
-[gd_scene format=3 uid="uid://f8mv2gaj73wi"]
-
-[node name="GlitchObject" type="AnimatableBody2D" unique_id=1645154965]
-input_pickable = true
-sync_to_physics = false
-
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1264647376]
